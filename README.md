@@ -1,2 +1,2 @@
 # Refigerante
- Carossel de profutos
+ Carossel de produtos
